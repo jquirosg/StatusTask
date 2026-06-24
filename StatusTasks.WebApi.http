@@ -1,0 +1,6 @@
+@StatusTasks.WebApi_HostAddress = http://localhost:5122
+
+GET {{StatusTasks.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
